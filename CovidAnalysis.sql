@@ -58,7 +58,7 @@ from PortfolioProject..CovidDeath
 Group by location, population
 order by PercentageofPopulationInfected desc
 
---Showing the contries with Highest Death count per Population
+--Showing the countries with Highest Death count per Population
 
 select location, Max(total_deaths) as TotalDeathCount
 from PortfolioProject..CovidDeath
