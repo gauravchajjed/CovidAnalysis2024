@@ -1,15 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.sql linguist-detectable=true  
-<<<<<<< HEAD
 *.java linguist-detectable=false  
 *.js linguist-detectable=false  
 *.html linguist-detectable=false  
 *.xml linguist-detectable=false    
-=======
-*.cvs linguist-detectable=true 
-*.js linguist-detectable=false  
-*.html linguist-detectable=false  
-*.xml linguist-detectable=false    
 
->>>>>>> 644469625e5c841add8bb58535067935f1319564
